@@ -6,7 +6,7 @@ Django==4.0.4
 idna==3.6
 iso8601==1.1.0
 nhentai==0.5.3
-requests==2.27.1
+requests==2.31.0
 django-cors-headers==3.14.0
 soupsieve==2.5
 sqlparse==0.4.4
